@@ -92,9 +92,11 @@ Using the `VideoPresenter` class, you can configure multiple video playback scen
 // Start and play a video
 Uri uri = Uri.parse("asset:///sample_video.mp4");
 VideoPresenter.getInstance().startReadVideo(uri.toString(), 1920, 1080);
+```
 
 
 
+https://github.com/user-attachments/assets/0f7275f0-5b3b-4bf2-b0d7-29cd0b153b75
 
-https://github.com/user-attachments/assets/1ebe8f24-cb60-4686-99d6-0050289c6789
+
 
