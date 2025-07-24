@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/0f7275f0-5b3b-4bf2-b0d7-29cd0b153b75
+
 # 3D Panorama Video Player
 
 This is an Android-based 3D panorama video player that supports playing panoramic videos and allows users to rotate and view them in 3D space. The project uses OpenGL ES 2.0 to render video textures and utilizes JNI to interface with a native C/C++ library for video decoding and playback.
