@@ -98,7 +98,6 @@ VideoPresenter.getInstance().startReadVideo(uri.toString(), 1920, 1080);
 
 
 
-https://github.com/user-attachments/assets/0f7275f0-5b3b-4bf2-b0d7-29cd0b153b75
 
 
 
